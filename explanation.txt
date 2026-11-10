@@ -1,0 +1,6 @@
+Explanation of Results
+1. Raising the threshold from 15 GeV to 20 GeV reduced the number of selected values from 5 to 3 because fewer particles have energies above a higher cut.
+2. The histogram of the original data does not depend on the threshold, so changing the threshold does not affect the bars of the histogram; only the selection changes.
+3. With 5 bins, the histogram is coarse and shows the overall spread of particle energies, while 10 bins divide the data into smaller intervals and show more detail.
+4. With only ten energy values, the histogram with 10 bins contains many empty bins or bins with only one entry, so it does not show a smooth distribution.
+5. With thousands of particle-energy values, the histogram would show a more meaningful distribution, and finer binning would help reveal more details about the particle energies.
